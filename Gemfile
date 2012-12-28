@@ -19,6 +19,7 @@ group :test do
   gem 'webrat', '>=0.7.1'
   gem 'autotest'
   gem 'autotest-rails-pure'
+  gem 'test-unit'
 end
 
 gem 'heroku'
